@@ -13,7 +13,7 @@ window.onload = function() {
     "mientras dormía.",
     "cuando fuí por el pan.",
     "en un arrebato de ira.",
-    "cuando estaba en la ducha.",
+    "cuando estaba en la ducha."
   ];
 
   function generateExcuse() {
