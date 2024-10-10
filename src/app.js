@@ -2,7 +2,6 @@
 import "bootstrap";
 import "./style.css";
 
-import "./assets/img/gatotriste.jpg";
 import "./assets/img/4geeks.ico";
 
 window.onload = function() {
